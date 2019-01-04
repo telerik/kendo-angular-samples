@@ -2,7 +2,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AngularFireModule } from '@angular/fire';
 import { AngularFireDatabaseModule } from '@angular/fire/database';
-import { HttpClient, HttpClientModule, HttpClientJsonpModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { GridModule } from '@progress/kendo-angular-grid';
@@ -27,7 +26,6 @@ const config = {
     AppComponent
   ],
   imports: [
-    HttpClientModule,
     BrowserModule,
     AngularFireModule.initializeApp(config),
     AngularFireDatabaseModule,
