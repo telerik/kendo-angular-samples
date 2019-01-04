@@ -13,7 +13,10 @@ This repository demonstrates a Kendo Ui for Angular Grid in edit mode using Goog
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## Live server
-[https://api-project-400013235268.firebaseapp.com/](https://api-project-400013235268.firebaseapp.com/)
+The application is hosted via firebase on the following url [https://api-project-400013235268.firebaseapp.com/](https://api-project-400013235268.firebaseapp.com/)
+
+For more details on firebase hosting check the following article from the official Google documentation:
+[https://firebase.google.com/docs/hosting/](https://firebase.google.com/docs/hosting/)
 
 ## Further help
 
