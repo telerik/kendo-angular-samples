@@ -3,7 +3,6 @@ import { Observable } from 'rxjs';
 
 import { FormGroup, FormControl, Validators } from '@angular/forms';
 
-import { State } from '@progress/kendo-data-query';
 import { EditService } from './edit.service';
 
 @Component({
@@ -12,16 +11,9 @@ import { EditService } from './edit.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  items: Observable<any[]>;
-  public gridData: any[];
-  public gridState: State = {
-    sort: [],
-    skip: 0,
-    take: 10
-  };
   public formGroup: FormGroup;
   private editedRowIndex: number;
-  public view;
+  public view: Observable<any>;
 
   constructor(public editService: EditService) {
     this.view = this.editService.get();
