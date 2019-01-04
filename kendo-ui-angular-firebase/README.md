@@ -1,27 +1,22 @@
 # KendoUiAngularFirebase
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
+This repository demonstrates a Kendo Ui for Angular Grid in edit mode using Google's realtime [firebase](https://firebase.google.com/) database. 
+
+##Get Started
+
+1. Clone this repository by using your favorite Git client.
+2. Enter the project directory by running ```cd kendo-ui-angular-firebase```.
+3. Install the node modules by running ```npm install```.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Live server
+[https://api-project-400013235268.firebaseapp.com/](https://api-project-400013235268.firebaseapp.com/)
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+To get more details on the use firebase check the official documentation by Google:
+[https://firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup)
+[https://firebase.google.com/docs/database/web/start](https://firebase.google.com/docs/database/web/start)
