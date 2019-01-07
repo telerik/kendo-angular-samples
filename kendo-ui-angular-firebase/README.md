@@ -20,7 +20,7 @@ For more details on firebase hosting check the following article from the offici
 
 ## Further help
 
-To get more details on the use firebase check the official documentation by Google:
+To get more details on how to use firebase check the official documentation by Google:
 [https://firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup)
 
 [https://firebase.google.com/docs/database/web/start](https://firebase.google.com/docs/database/web/start)
