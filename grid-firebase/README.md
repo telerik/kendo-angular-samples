@@ -2,7 +2,7 @@
 
 This repository demonstrates a Kendo Ui for Angular Grid in edit mode using Google's realtime [firebase](https://firebase.google.com/) database. 
 
-##Get Started
+## Get Started
 
 1. Clone this repository by using your favorite Git client.
 2. Enter the project directory by running ```cd kendo-ui-angular-firebase```.
