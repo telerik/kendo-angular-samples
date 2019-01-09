@@ -1,4 +1,4 @@
-# KendoUiAngularFirebase
+# Kendo UI for Angular - CRUD with Firebase
 
 This repository demonstrates a Kendo Ui for Angular Grid in edit mode using Google's realtime [firebase](https://firebase.google.com/) database. 
 
