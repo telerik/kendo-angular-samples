@@ -1,3 +1,5 @@
+##  This repository is no longer updated. To access the current version, refer to the [`kendo-angular` repository](https://github.com/telerik/kendo-angular/tree/master/examples/projects/grid-firebase).
+
 # Kendo UI for Angular Grid - CRUD with Firebase
 
 This repository demonstrates a Kendo Ui for Angular Grid in edit mode using Google's realtime [firebase](https://firebase.google.com/) database. 
